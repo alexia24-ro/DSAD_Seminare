@@ -1,1 +1,1 @@
-# DSAD_Seminarii
+# DSAD_Seminare
